@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Spazi Consonanti]]></title>
         <description><![CDATA[Spazi Consonanti]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/spazi-consonanti/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 21:57:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 22 May 2016 21:57:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/spazi-consonanti/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Interview: Artist Ryan McGinness on Designing for Hennessy]]></title>
+            <description><![CDATA[<article><h1>Interview: Artist Ryan McGinness on Designing for Hennessy</h1><p>Despite the fact that he works across multiple artistic mediums, it's very easy to discern the work of NYC-based artist Ryan McGinness. In addition to his iconic symbol-driven body of work, his experimental Instagram and the depths of his oftentimes ornate paintings, McGinness recently took to designing a special limited edition bottle for luxury cognac brand Hennessy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0177dec01e85895d69f554c2d73fc2a73857261.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/design/ryan-mcginness-hennessy-bottle</link>
+            <guid isPermaLink="false">48ba222b-7493-427b-a071-535fe73d924d</guid>
+            <pubDate>Sun, 22 May 2016 21:57:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bits And Pieces - An organic wave of Hoberman Spheres]]></title>
             <description><![CDATA[<article><h1>Bits And Pieces - An organic wave of Hoberman Spheres</h1><p>Currently on show at Berlin's NOME Gallery is the latest work by Nils Völker titled Bits And Pieces. The installation consists out of 108 mass-produced toy spheres hanging in the middle of the exhibition space, individually addressable and controlled, to create organic waves that appear to move throughout the space.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/29c17de1db318a16ae7c090ab6a2dab8f308c76c.jpg"></article>]]></description>
