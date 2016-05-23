@@ -1,14 +1,14 @@
-layout_spectrum: 0.47836134606041014
-typography_spectrum: 0.8689948157407343
+layout_spectrum: 0.000026064692065119743
+typography_spectrum: 0.5238931111525744
 color:
-  brandStrength: 0.9859126624651253
-  lightness: 0.031913170823827386
-  saturation: 0.5387414894066751
-  rhythmicContrast: 0.25310778175480664
+  brandStrength: 0.5564922315534204
+  lightness: 0.623440325492993
+  saturation: 0.5661493006628007
+  rhythmicContrast: 0.7992323315702379
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
 name: Spazi Consonanti
