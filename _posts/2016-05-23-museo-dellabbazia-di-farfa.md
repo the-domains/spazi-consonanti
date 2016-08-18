@@ -1,15 +1,19 @@
 ---
-datePublished: '2016-08-18T08:41:37.564Z'
+datePublished: '2016-08-18T09:29:34.151Z'
 sourcePath: _posts/2016-05-23-museo-dellabbazia-di-farfa.md
 author: []
 via: {}
-dateModified: '2016-08-18T08:41:36.332Z'
-title: Museo dell'Abbazia di Farfa
+dateModified: '2016-08-18T09:29:33.510Z'
+title: ''
 publisher: {}
 description: >-
-  Il progetto del Museo archeologico dell’Abbazia di Farfa, uno dei complessi
-  monumentali più importanti - sotto il profilo storico-artistico – dell’Italia
-  centrale, è stato un esempio di incontro tra architettura e teatro.
+  Una manica del convento è destinata ad accogliere i reperti che documentano la
+  storia della nota Abbazia medievale. Una grande teca, in posizione centrale,
+  ospita una trascrizione contemporanea, in dodici scene, del Chronicon Farfense
+  di Gregorio da Catino: tredici laboratori artistici dal nord al sud d’Italia
+  hanno lavorato alla sua realizzazione. Il fruitore si immerge in una
+  narrazione nella quale i reperti archeologici non sono più un muto patrimonio
+  ma connessione conoscitiva, principio di immaginazione.
 starred: false
 inFeed: true
 hasPage: false
@@ -17,7 +21,9 @@ inNav: false
 _type: MediaObject
 
 ---
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a2deda10208e077626c48558f6df3fe0aaf3f370.jpg" /><h1>Museo dell'Abbazia di Farfa</h1><p>Una manica del convento è destinata ad accogliere i reperti che documentano la storia della nota Abbazia medievale. Una grande teca, in posizione centrale, ospita una trascrizione contemporanea, in dodici scene, del Chronicon Farfense di Gregorio da Catino: tredici laboratori artistici dal nord al sud d’Italia hanno lavorato alla sua realizzazione. Il fruitore si immerge in una narrazione nella quale i reperti archeologici non sono più un muto patrimonio ma connessione conoscitiva, principio di immaginazione.</p></article>
+Una manica del convento è destinata ad accogliere i reperti che documentano la storia della nota Abbazia medievale. Una grande teca, in posizione centrale, ospita una trascrizione contemporanea, in dodici scene, del Chronicon Farfense di Gregorio da Catino: tredici laboratori artistici dal nord al sud d'Italia hanno lavorato alla sua realizzazione. Il fruitore si immerge in una narrazione nella quale i reperti archeologici non sono più un muto patrimonio ma connessione conoscitiva, principio di immaginazione.
+
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a2deda10208e077626c48558f6df3fe0aaf3f370.jpg" /><p>Una manica del convento è destinata ad accogliere i reperti che documentano la storia della nota Abbazia medievale. Una grande teca, in posizione centrale, ospita una trascrizione contemporanea, in dodici scene, del Chronicon Farfense di Gregorio da Catino: tredici laboratori artistici dal nord al sud d’Italia hanno lavorato alla sua realizzazione. Il fruitore si immerge in una narrazione nella quale i reperti archeologici non sono più un muto patrimonio ma connessione conoscitiva, principio di immaginazione.</p></article>
 
 Il progetto del Museo archeologico dell'Abbazia di Farfa, uno dei complessi monumentali più importanti - sotto il profilo storico-artistico -- dell'Italia centrale, è stato un esempio di incontro tra architettura e teatro.
 
