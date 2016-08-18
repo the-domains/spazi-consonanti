@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-18T09:58:27.698Z'
+datePublished: '2016-08-18T10:22:56.204Z'
 sourcePath: _posts/2016-08-18-il-restauro-dellabbazia-di-farfa.md
 author: []
 via: {}
-dateModified: '2016-08-18T09:58:27.004Z'
-title: Il Restauro dell'Abbazia di Farfa
+dateModified: '2016-08-18T10:22:55.578Z'
+title: Abbazia di Farfa
 publisher: {}
 description: >-
   La complessità del progetto di restauro si articola dalla scala urbana e
@@ -27,7 +27,9 @@ inNav: false
 _type: MediaObject
 
 ---
-# Il Restauro dell'Abbazia di Farfa
+# Abbazia di Farfa
+
+## Restauro e recupero ambientale del complesso monumentale dell'Abbazia di Farfa
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/614cfc97-773b-4954-8c79-2948943589f3.jpg)
 
 ### La tutela del borgo monumentale
