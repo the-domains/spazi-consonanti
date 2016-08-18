@@ -1,16 +1,16 @@
-typography_spectrum: 0.4253116410691291
+typography_spectrum: 0.5475206032861024
 color:
-  brandStrength: 0.5564922315534204
-  lightness: 0.623440325492993
-  saturation: 0.5661493006628007
-  rhythmicContrast: 0.7992323315702379
+  brandStrength: 0.872868541162461
+  lightness: 0.8843976585194468
+  saturation: 0.6864600526168942
+  rhythmicContrast: 0.885308533674106
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
-layout_spectrum: 0.8812716118991375
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+layout_spectrum: 0.587947849649936
 author:
   name: Spazi Consonanti
   email: studio@spaziconsonanti.com
