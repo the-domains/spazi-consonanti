@@ -1,4 +1,4 @@
-typography_spectrum: 0.5238931111525744
+typography_spectrum: 0.4253116410691291
 color:
   brandStrength: 0.5564922315534204
   lightness: 0.623440325492993
@@ -10,10 +10,11 @@ color:
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
-layout_spectrum: 0.31931729544885457
+layout_spectrum: 0.8812716118991375
 author:
   name: Spazi Consonanti
   email: studio@spaziconsonanti.com
-logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/31cb217f-505d-4748-a4f9-43994dba7354.jpg'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/31cb217f-505d-4748-a4f9-43994dba7354.jpg
 name: Spazi Consonanti
 title: 'Architettura, restauro, musei'
