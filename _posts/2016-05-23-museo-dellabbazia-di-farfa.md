@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-18T09:29:34.151Z'
+datePublished: '2016-08-18T09:31:11.954Z'
 sourcePath: _posts/2016-05-23-museo-dellabbazia-di-farfa.md
 author: []
 via: {}
-dateModified: '2016-08-18T09:29:33.510Z'
-title: ''
+dateModified: '2016-08-18T09:31:11.362Z'
+title: Il Museo dell’Abbazia di Farfa
 publisher: {}
 description: >-
   Una manica del convento è destinata ad accogliere i reperti che documentano la
@@ -21,6 +21,8 @@ inNav: false
 _type: MediaObject
 
 ---
+# Il Museo dell'Abbazia di Farfa
+
 Una manica del convento è destinata ad accogliere i reperti che documentano la storia della nota Abbazia medievale. Una grande teca, in posizione centrale, ospita una trascrizione contemporanea, in dodici scene, del Chronicon Farfense di Gregorio da Catino: tredici laboratori artistici dal nord al sud d'Italia hanno lavorato alla sua realizzazione. Il fruitore si immerge in una narrazione nella quale i reperti archeologici non sono più un muto patrimonio ma connessione conoscitiva, principio di immaginazione.
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a2deda10208e077626c48558f6df3fe0aaf3f370.jpg" /><p>Una manica del convento è destinata ad accogliere i reperti che documentano la storia della nota Abbazia medievale. Una grande teca, in posizione centrale, ospita una trascrizione contemporanea, in dodici scene, del Chronicon Farfense di Gregorio da Catino: tredici laboratori artistici dal nord al sud d’Italia hanno lavorato alla sua realizzazione. Il fruitore si immerge in una narrazione nella quale i reperti archeologici non sono più un muto patrimonio ma connessione conoscitiva, principio di immaginazione.</p></article>
