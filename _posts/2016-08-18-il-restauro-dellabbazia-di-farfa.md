@@ -1,4 +1,11 @@
 ---
+datePublished: '2016-08-18T09:46:34.913Z'
+sourcePath: _posts/2016-08-18-il-restauro-dellabbazia-di-farfa.md
+author: []
+via: {}
+dateModified: '2016-08-18T09:46:34.247Z'
+title: Il Restauro dell'Abbazia di Farfa
+publisher: {}
 description: >-
   La complessità del progetto di restauro si articola dalla scala urbana e
   ambientale, per arrivare al restauro specialistico di decorazioni di pregio.
@@ -12,15 +19,8 @@ description: >-
   contemplò la deviazione del traffico veicolare, la realizzazione di parcheggi
   a monte del complesso monumentale con una sistemazione del terreno atta ad
   annullare qualsiasi eventuale impatto visivo, fuori e dentro il borgo di
-  Farfa. 
-dateModified: '2016-08-18T09:25:25.937Z'
-datePublished: '2016-08-18T09:43:44.747Z'
-title: Il Restauro dell'Abbazia di Farfa
-author: []
-publisher: {}
-via: {}
+  Farfa.
 starred: false
-sourcePath: _posts/2016-08-18-il-restauro-dellabbazia-di-farfa.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -32,9 +32,11 @@ _type: MediaObject
 
 ### La tutela del borgo monumentale
 
-La complessità del progetto di restauro si articola dalla scala urbana e ambientale, per arrivare al restauro specialistico di decorazioni di pregio. Tale complessità ha determinato la costituzione di un gruppo di progettazione composito e capace di armonizzarsi sui diversi terreni disciplinari. Il progetto ha innanzi tutto risposto alla necessità, ai fini della tutela, di pedonalizzare un'antica strada che attraversava il borgo monumentale collegava tra loro i paesi circostanti. Con l'avvento del traffico gli edifici antichi che vi si affacciavano subivano infatti l'effetto dannoso delle vibrazioni del traffico pesante, della strada veicolare provinciale. Allo scopo, il progetto contemplò la deviazione del traffico veicolare, la realizzazione di parcheggi a monte del complesso monumentale con una sistemazione del terreno atta ad annullare qualsiasi eventuale impatto visivo, fuori e dentro il borgo di Farfa. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a46fae61-28e3-4c68-9d5e-df01a8962bb1.jpg)
+La complessità del progetto di restauro si articola dalla scala urbana e ambientale, per arrivare al restauro specialistico di decorazioni di pregio. Tale complessità ha determinato la costituzione di un gruppo di progettazione composito e capace di armonizzarsi sui diversi terreni disciplinari. Il progetto ha innanzi tutto risposto alla necessità, ai fini della tutela, di pedonalizzare un'antica strada che attraversava il borgo monumentale collegava tra loro i paesi circostanti. Con l'avvento del traffico gli edifici antichi che vi si affacciavano subivano infatti l'effetto dannoso delle vibrazioni del traffico pesante, della strada veicolare provinciale. Allo scopo, il progetto contemplò la deviazione del traffico veicolare, la realizzazione di parcheggi a monte del complesso monumentale con una sistemazione del terreno atta ad annullare qualsiasi eventuale impatto visivo, fuori e dentro il borgo di Farfa.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a46fae61-28e3-4c68-9d5e-df01a8962bb1.jpg)
 
-Per la strada pedonalizzata e accessibile, fu prevista una pavimentazione in riquadri centrali di mattoni a coltello, lastre di travertino locale al perimetro e acciottolato ai bordi: tutti materiali già presenti nel complesso monumentale e riproposti per armonizzare l'intervento con la preesistenza. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0372732e-8f08-4c84-bd2f-9858a66324ab.jpg)
+Per la strada pedonalizzata e accessibile, fu prevista una pavimentazione in riquadri centrali di mattoni a coltello, lastre di travertino locale al perimetro e acciottolato ai bordi: tutti materiali già presenti nel complesso monumentale e riproposti per armonizzare l'intervento con la preesistenza.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0372732e-8f08-4c84-bd2f-9858a66324ab.jpg)
 
 Il progetto alla scala urbana contemplava infine, una revisione degli impianti di illuminazione nel borgo, e la prototipazione di un nuovo corpo illuminante appositamente studiato per il complesso monumentale, in modo tale che si armonizzasse con geometrie, passi, ritmi dell'edificio e del suo contesto; furono inoltre realizzati appositi elementi di seduta e di raccolta dei rifiuti, dei pozzetti dei sottoservizi, e fu ripristinata la vegetazione circostante, avvalendosi della consulenza scientifica del paesaggista Ippolito Pizzetti.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/31220c712166420c2e55c635b078971e2cf98c4d.jpg)
@@ -54,6 +56,6 @@ Il Chiostro settecentesco, come la facciata della Basilica, era stato stonacato 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/09d37ea8-7f14-4953-bd9a-e46d2436bca1.jpg)
 
 all'allestimento I cinque ambienti comunicanti con la manica del convento destinati del museo civico archeologico furono anche oggetto di intervento. Questi spazi erano decorati con pitture settecentesche a tempera molto ammalorate a causa dell'umidità di risalita: furono interamente bonificati e gli apparati decorativi furono oggetto di un attento ripristino specialistico, per mano di restauratori qualificati.
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/32db3b2e0f37e321fc35df6a6e933e2b/croprotate.jpg?cropheight=3921&cropwidth=3133&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fc3139dd9-53c7-4d89-bb0b-d8d86cf42539.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0391867875585a75a6458f7a36f8ced4618753c5.jpg)
 
 <iframe src="https://the-grid.github.io/ed-location/?latitude=20&amp;longitude=-35&amp;zoom=17" style=""></iframe>
