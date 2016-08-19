@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-18T10:22:56.204Z'
+datePublished: '2016-08-19T14:42:21.071Z'
 sourcePath: _posts/2016-08-18-il-restauro-dellabbazia-di-farfa.md
 author: []
 via: {}
-dateModified: '2016-08-18T10:22:55.578Z'
+dateModified: '2016-08-19T14:42:20.266Z'
 title: Abbazia di Farfa
 publisher: {}
 description: >-
@@ -28,11 +28,7 @@ _type: MediaObject
 
 ---
 # Abbazia di Farfa
-
-## Restauro e recupero ambientale del complesso monumentale dell'Abbazia di Farfa
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/614cfc97-773b-4954-8c79-2948943589f3.jpg)
-
-### La tutela del borgo monumentale
 
 La complessità del progetto di restauro si articola dalla scala urbana e ambientale, per arrivare al restauro specialistico di decorazioni di pregio. Tale complessità ha determinato la costituzione di un gruppo di progettazione composito e capace di armonizzarsi sui diversi terreni disciplinari. Il progetto ha innanzi tutto risposto alla necessità, ai fini della tutela, di pedonalizzare un'antica strada che attraversava il borgo monumentale collegava tra loro i paesi circostanti. Con l'avvento del traffico gli edifici antichi che vi si affacciavano subivano infatti l'effetto dannoso delle vibrazioni del traffico pesante, della strada veicolare provinciale. Allo scopo, il progetto contemplò la deviazione del traffico veicolare, la realizzazione di parcheggi a monte del complesso monumentale con una sistemazione del terreno atta ad annullare qualsiasi eventuale impatto visivo, fuori e dentro il borgo di Farfa.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a46fae61-28e3-4c68-9d5e-df01a8962bb1.jpg)
