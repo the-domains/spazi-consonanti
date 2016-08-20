@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-20T09:40:07.701Z'
+datePublished: '2016-08-20T14:34:44.874Z'
 sourcePath: _posts/2016-08-18-il-restauro-dellabbazia-di-farfa.md
 author: []
 via: {}
-dateModified: '2016-08-20T09:40:07.122Z'
+dateModified: '2016-08-20T14:34:43.967Z'
 title: Abbazia di Farfa
 publisher: {}
 description: >-
