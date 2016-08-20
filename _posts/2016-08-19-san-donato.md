@@ -1,19 +1,12 @@
 ---
-datePublished: '2016-08-19T14:51:49.318Z'
+datePublished: '2016-08-20T11:27:21.339Z'
 sourcePath: _posts/2016-08-19-san-donato.md
 author: []
 via: {}
-dateModified: '2016-08-19T14:51:48.448Z'
+dateModified: '2016-08-20T11:27:20.214Z'
 title: San Donato
 publisher: {}
-description: >-
-  A partire dalla metà degli anni '90, la chiesa altomedievale di San Donato (IX
-  secolo), una piccola pieve immersa negli uliveti alle pendici del borgo
-  medievale di Castelnuovo di Farfa (RI), fu oggetto di missioni di scavo da
-  parte del team del Prof. John Moreland dell'Università di Sheffield. Da questi
-  studi emerse lo straordinario interesse del sito archeologico, perché
-  testimonianza del passaggio dall'insediamento rurale imperiale a quello
-  medievale.
+description: ''
 starred: false
 inFeed: true
 hasPage: false
