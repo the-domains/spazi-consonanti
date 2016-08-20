@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-20T11:25:41.646Z'
+datePublished: '2016-08-20T12:45:44.215Z'
 sourcePath: _posts/2016-08-20-colosseo-il-rito-segreto.md
 author: []
 via: {}
-dateModified: '2016-08-20T11:25:40.971Z'
+dateModified: '2016-08-20T12:45:43.252Z'
 title: 'Colosseo, il Rito Segreto'
 publisher: {}
 description: >-
-  L’esposizione temporanea “Il Rito Segreto – Misteri in Grecia e a Roma” (Roma,
+  L’esposizione temporanea “Il rito segreto – misteri in Grecia e a Roma” (Roma,
   2005-2006) occupava le due gallerie del primo livello del Colosseo rivolte
-  verso il Colle Oppio, per circa 150 metri del loro sviluppo. 
+  verso il Colle Oppio, per circa 150 metri del loro sviluppo.
 starred: false
 inFeed: true
 hasPage: false
@@ -19,10 +19,10 @@ _type: MediaObject
 ---
 # Colosseo, il Rito Segreto
 
-## Allestimento della mostra "Il Rito Segreto - Misteri in Grecia e a Roma" nella galleria occidentale al primo piano del Colosseo
+## Allestimento della mostra "Il rito segreto - misteri in Grecia e a Roma" nella galleria occidentale al primo piano del Colosseo
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/feb204a8-6883-4f13-98be-128b44e9c60f.jpg)
 
-L'esposizione temporanea "Il Rito Segreto -- Misteri in Grecia e a Roma" (Roma, 2005-2006) occupava le due gallerie del primo livello del Colosseo rivolte verso il Colle Oppio, per circa 150 metri del loro sviluppo. 
+L'esposizione temporanea "Il rito segreto -- misteri in Grecia e a Roma" (Roma, 2005-2006) occupava le due gallerie del primo livello del Colosseo rivolte verso il Colle Oppio, per circa 150 metri del loro sviluppo.
 
 Questi due ambulacri, normalmente utilizzati ai fini espositivi, pur essendo comunicanti, sono tra loro molto diversi: la galleria esterna si apre ai suoni e alla luce naturale dell'ambiente urbano sottostante; quella interna, le cui volte hanno una quota di imposta più bassa, è uno spazio raccolto dove luci e rumori arrivano attutiti. I fornici della galleria interna, rivolti verso l'arena, erano stati chiusi negli anni con tamponature molto eterogenee. Assecondando le vocazioni del monumento, si decise, nel progetto di allestimento, di accentuare la distinzione tra questi due spazi longitudinali, concentrando il patrimonio nella più raccolta galleria interna e differenziando supporti, regia di luci, linguaggi artistici e multimediali.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a6ef44f-d616-47d4-b41f-f88c8d09c6fb.jpg)
