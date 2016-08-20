@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-19T15:41:16.398Z'
+datePublished: '2016-08-20T09:40:07.701Z'
 sourcePath: _posts/2016-08-18-il-restauro-dellabbazia-di-farfa.md
 author: []
 via: {}
-dateModified: '2016-08-19T15:41:15.422Z'
+dateModified: '2016-08-20T09:40:07.122Z'
 title: Abbazia di Farfa
 publisher: {}
 description: >-
   Il progetto di recupero del complesso monumentale dell'Abbazia di Farfa si
   articola dalla scala urbana e ambientale, per arrivare al restauro
-  specialistico di decorazioni di pregio. 
+  specialistico di decorazioni di pregio.
 starred: false
 inFeed: true
 hasPage: false
@@ -22,7 +22,7 @@ _type: MediaObject
 ## Restauro e recupero ambientale del complesso monumentale dell'Abbazia di Farfa
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7ed04c9-f256-4d93-8e03-afb51888ddfa.jpg)
 
-Il progetto di recupero del complesso monumentale dell'Abbazia di Farfa si articola dalla scala urbana e ambientale, per arrivare al restauro specialistico di decorazioni di pregio. 
+Il progetto di recupero del complesso monumentale dell'Abbazia di Farfa si articola dalla scala urbana e ambientale, per arrivare al restauro specialistico di decorazioni di pregio.
 
 La stessa percorrenza del borgo storico è stata modificata, ai fini della tutela, pedonalizzando l'antica strada di spina che attraversava l'abitato collegando tra loro i paesi circostanti. Con l'avvento del traffico veicolare, gli edifici antichi che vi si affacciavano subivano infatti l'effetto dannoso delle vibrazioni del traffico pesante, della strada provinciale. Allo scopo, il progetto contemplò la deviazione del traffico veicolare, la realizzazione di parcheggi a monte del complesso monumentale con una sistemazione del terreno atta ad annullare qualsiasi eventuale impatto visivo, fuori e dentro il borgo di Farfa.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/577f3f15-c2b3-4e88-8683-7fccce1f77d5.jpg)
@@ -48,4 +48,4 @@ Il Chiostro settecentesco, come la facciata della Basilica, era stato stonacato 
 I cinque ambienti comunicanti con la manica del convento oggetto di intervento, furono destinati a sede del museo civico archeologico dell'Abbazia. Questi spazi erano decorati con pitture settecentesche a tempera molto ammalorate a causa dell'umidità di risalita: furono interamente bonificati e gli apparati decorativi furono oggetto di un attento ripristino specialistico, per mano di restauratori qualificati.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0443bca0-5c09-43b4-af76-cb2e0ef5e38c.jpg)
 
-<iframe src="https://the-grid.github.io/ed-location/?latitude=42.22069959919682&amp;longitude=12.717876434326172&amp;zoom=14&amp;address=Fara%20in%20Sabina%2C%20Rieti%2C%20Italy" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-location/?latitude=20&amp;longitude=-35&amp;zoom=14&amp;address=Fara%20in%20Sabina%2C%20Rieti%2C%20Italy" style=""></iframe>
