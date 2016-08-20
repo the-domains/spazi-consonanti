@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-20T12:49:53.786Z'
+datePublished: '2016-08-20T14:22:34.454Z'
 sourcePath: _posts/2016-08-20-colosseo-il-rito-segreto.md
 author: []
 via: {}
-dateModified: '2016-08-20T12:49:52.796Z'
+dateModified: '2016-08-20T14:22:32.665Z'
 title: 'Colosseo, il rito segreto'
 publisher: {}
 description: >-
@@ -33,6 +33,8 @@ L'allestimento si articolava a partire dalla variazione e modulazione di pochi s
 
 I supporti che costruivano l'impianto espositivo e narrativo della mostra erano: degli elementi pieni ad impianto lenticolare, gli scudi, posti nei fornici tra le gallerie; degli elementi volumetrici cavi, le esedre, addossati ai fornici della galleria interna; dei filtri di luce naturale, o velari, montati a pressione su alcuni fornici verso la cavea.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/95d61537-c81a-4236-a962-533c35ca1667.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/be4da203-0a48-450a-a50c-5ac6208dca13.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e59ce58b-161d-4f13-b89e-f7d019a7a6d2.jpg)
 
 Scudi ed esedre erano realizzati con strutture di acciaio, riempiti di materiale isolante e rivestiti da fasce orizzontali di lamiera metallica che riprendevano le altezze dei conci delle vicine masse murarie. La finitura a cera della lamiera brunita, assorbiva la luce con diversa intensità a seconda dell'orientamento dei diversi elementi, governando puntualmente riflessi e atmosfere. L'effetto che ne derivava, era quello di una presenza austera, antica, in consonanza con l'architettura del monumento.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8e6b8af-ebf2-4ca4-a94d-daa4370da117.jpg)
