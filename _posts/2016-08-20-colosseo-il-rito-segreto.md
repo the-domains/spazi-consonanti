@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-20T12:45:44.215Z'
+datePublished: '2016-08-20T12:49:53.786Z'
 sourcePath: _posts/2016-08-20-colosseo-il-rito-segreto.md
 author: []
 via: {}
-dateModified: '2016-08-20T12:45:43.252Z'
-title: 'Colosseo, il Rito Segreto'
+dateModified: '2016-08-20T12:49:52.796Z'
+title: 'Colosseo, il rito segreto'
 publisher: {}
 description: >-
   L’esposizione temporanea “Il rito segreto – misteri in Grecia e a Roma” (Roma,
@@ -17,7 +17,7 @@ inNav: false
 _type: MediaObject
 
 ---
-# Colosseo, il Rito Segreto
+# Colosseo, il rito segreto
 
 ## Allestimento della mostra "Il rito segreto - misteri in Grecia e a Roma" nella galleria occidentale al primo piano del Colosseo
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/feb204a8-6883-4f13-98be-128b44e9c60f.jpg)
